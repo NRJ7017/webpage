@@ -1,0 +1,179 @@
+body{
+    margin: 0px auto;
+    padding: 0px auto;
+    background-color:azure;
+    background-attachment: fixed;
+}
+.logo1,.header{
+      height: 110px;
+      border: px solid black;
+      background-color:#03274B;
+      padding-left: 100px;
+      color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+nav{
+    height:40px;
+    width:100%;
+    background: #455868;
+    font-size: 11pt;
+    font-weight: bold;
+    position: relative;
+    
+}
+nav ul{
+    padding: 0;
+    margin: 0 auto;
+    width:100%;
+    height:40px;
+   
+}
+nav li{
+   border: px solid black;
+    display: inline;
+    float: left;
+    margin-left: 100px;
+}
+nav a{
+    color: #fff;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    line-height: 35px;
+    width: ;
+    
+}
+
+nav a:hover,nav a:active{
+   
+     text-decoration: none;
+    color: aqua;
+     border-bottom: 3px solid aqua;
+}
+
+
+.intro{
+    margin:0px 10px;
+    background-color: lightblue;
+    height: 550px;
+    border: px solid black;
+}
+.name{
+    height: 100px;
+    border: px solid red;
+    text-align: center;
+}
+.image{
+    height: 400px;
+    background-color: white;
+    border: px solid blue;
+    box-shadow: 0 0 30px 5px grey;
+    background-image: url(img/509109438.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+.reserch{margin: 0px;
+     padding: 20px 25px;
+    background-color: aliceblue;
+    margin-top: 120px;
+    height: 190px;
+    border: px solid green;
+}
+.reserch ul{
+  
+    padding-left: 100px;
+}
+.contactmain{margin-top: 20px;
+    padding:20px 25px;
+    background-color: aliceblue;
+    height: 190px;
+    border: px solid aqua;
+        
+}
+.contactmain p{
+   
+    padding-left: 100px;
+    
+    text-align:justify;
+}
+.photo{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left:30%;
+    border-radius: 100px;
+    border: px solid black;
+    margin-top:100px;
+    box-shadow: 0 0 80px 5px #06c;
+    background-image: url(img/sanjusktapatra.jpg);
+    background-position: center;
+    background-size:contain;
+   background-repeat: no-repeat;
+}
+
+.row-home{
+    height: 100%;
+     margin:0px 10px;
+    margin-bottom:20px;
+     background-color: lightblue;
+    border: px solid black;
+}
+.education{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:10px 20px;
+    background-color: aliceblue;
+    height: 100%;
+    border: px solid aqua;
+    text-align: justify;
+}
+.education h4{
+    margin: 0px;
+}
+.education p{
+    margin:10px 20px;
+    font-size: 17px;
+}
+.line{
+    background-color:black; height: 1px;
+}
+.row-table{
+    padding: 10px;
+    margin:0px 10px;
+    background-color:lightblue;
+   
+}
+table{
+    background-color: aliceblue;
+    margin:2px;
+   font-size: 17px;
+}
+#th4,#th5{
+    width:115px;
+}
+a:visited{
+    text-decoration: none;
+}
+.btn1:hover{
+    color: white;
+    opacity: .8;
+}
+.btn1{
+    background-color:#455868;
+    color: white;
+}
+.contact{
+    border: px solid black;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding:20px 25px;
+    background-color: aliceblue;
+    
+}
